@@ -35,7 +35,7 @@ img.top-banner {
   letter-spacing: 0px;
   text-align: center;
   padding-bottom: 0px;
-  padding-top: 10px;
+  padding-top: 26px;
 }
 
 .section-bottom-btn {
@@ -161,7 +161,7 @@ img.shop-avatar {
   bottom: 0;
   left: 5%;
   width: 20%;
-  border: 2px solid #CFF44C;
+  border: 1px solid #F0F5F7;
   margin-bottom: 16px;
 }
 
